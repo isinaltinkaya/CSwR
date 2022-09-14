@@ -539,7 +539,7 @@ function (if necessary) to exclude all or some of such values from `x`.
 ### Histograms with non-equidistant breaks {-}
 
 The following three exercises will use a data set consisting of measurements 
-of infrared emissions from objects outside of our galax. We will focus on the variable 
+of infrared emissions from objects outside of our galaxy. We will focus on the variable 
 F12, which is the total 12 micron band flux density.
 
 
